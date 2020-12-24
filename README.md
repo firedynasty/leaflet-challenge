@@ -14,5 +14,5 @@ The circle sizes corresponds to the magnitude. Two sizes were made, one for magn
 
 A legend on the bottom right of the map shows the corresponding depth of the earthquake.
 
-You can view the site deployed at [deployed](https://firedynasty.github.io/homework/leaflet_challenge/). 
+You can view the site deployed [here](https://firedynasty.github.io/homework/leaflet_challenge/). 
 
