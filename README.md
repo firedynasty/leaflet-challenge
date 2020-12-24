@@ -1,6 +1,6 @@
 # leaflet-challenge
 
-From https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php got the dataset of the past 30 days of earthquakes in geoJson format. 
+From https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php retrieved the dataset of the past 30 days of earthquakes in geoJson format. 
 
 Some of the functions that were used were `pointToLayer` and `onEachFeature`. 
 
