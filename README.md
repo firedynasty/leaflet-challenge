@@ -8,7 +8,7 @@ Some of the functions that were used were `pointToLayer` and `onEachFeature`.
 
 Without those functions it would have been very diffcult to bind information to all the points.
 
-One great feature of using those functions was the ability bind popups to each individual point on the map
+One great feature of using those functions was the ability bind popups to each individual point on the map.
 
 The circle sizes corresponds to the magnitude. Two sizes were made, one for magnitudes below 5 and the other above.
 
